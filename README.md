@@ -7,10 +7,10 @@ prática git aula pw3
 * comandos git básicos:
 
 - git clone
-git log
-git status
-git add .
-git commit 
-git push
+- git log
+- git status
+- git add .
+- git commit 
+- git push
 - git pull
 

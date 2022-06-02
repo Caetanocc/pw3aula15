@@ -6,11 +6,11 @@ prática git aula pw3
 * mostrar as diferenças de versão dos arquivos
 * comandos git básicos:
 
-git clone
-git log
-git status
-git add .
-git commit 
-git push
-git pull
+- git clone
+- git log
+- git status
+- git add .
+- git commit 
+- git push
+- git pull
 
